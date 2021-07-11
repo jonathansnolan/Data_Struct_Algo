@@ -1,17 +1,16 @@
 <h1> Course Outline <h1/>
 
-I hope you're ready to get started! Below is the outline for this course—each section will include some mix of videos, text explanations, Python examples, and practice questions. The mix of formats will keep each bit of information interesting and digestible. Feel free to post in the forums if you have questions!
-
 1. Introduction and Efficiency
   * Course Introduction
   * Syntax
   * Efficiency
   * Notation of Efficiency
+
 2. List-Based Collections
   * Lists/Arrays
   * Linked Lists
   * Stacks
-* Queues
+  * Queues
 3. Searching and Sorting
   * Binary Search
   * Recursion
