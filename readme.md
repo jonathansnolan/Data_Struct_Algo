@@ -1,4 +1,4 @@
-<h1> Course Outline <h1/>
+<h1> Course Outline </h1>
 
 1. **Introduction and Efficiency**
   * Course Introduction
