@@ -1,6 +1,6 @@
 <h1> Course Outline <h1/>
 
-1. Introduction and Efficiency
+1. **Introduction and Efficiency**
   * Course Introduction
   * Syntax
   * Efficiency
